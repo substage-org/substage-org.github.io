@@ -1,5 +1,0 @@
-{
-    "azure.resourceFilter": null,
-    "azure.cloud": "AzureCloud",
-    "azure.authenticationLibrary": "MSAL"
-}
